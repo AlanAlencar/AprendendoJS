@@ -12,6 +12,10 @@ Para poder contribuir com o repositório, solicite ao e-mail alanalencar@me.com 
 
 Seja bem-vindo.
 
+## Recursos adicionais
+
+Um grupo de discussão pode ser encontrado na ferramenta __discord__. O link para se inscrever no canal é https://discord.gg/DWHycEKk82, participe.
+
 ## Primeira aula
 
 #### Conteúdo
