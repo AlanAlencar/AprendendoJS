@@ -28,4 +28,14 @@ Aprendemos ainda como é formado um documento HTML5 e como fazer inserções din
 
 O conteúdo está na pasta `aula 1` com os slides em formato _.pdf_ dentro da pasta `slides`. Se você quiser, baixe ainda o _para casa_ na pasta `exercicios` e faça sua prática.
 
+## Segunda Aula
+
+#### Conteúdo
+
+Aprendemos a escrever código JavaScript dentro das nossas páginas HTML usando a tag `script` e também manipulamos tags usando `document.getElemenstByTagName`.
+
+Aprendemos que este método retorna sempre um `HTMLCollection` e portanto precisamos enderecar a sua posição no array.
+
+Aprendemos ainda as funções `alert`, `confirm` e `prompt`. Adicionamente usamos a instrução condicional `if` para testar retornos.
+
 // Alan Alencar, 2023
