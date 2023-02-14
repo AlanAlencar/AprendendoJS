@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ptBr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprendendo JS</title>
+</head>
+<body>
+    <h1>Algo vai aparecer abaixo via JS</h1>
+    <p>Primeiro Parágrafo</p>
+    <p>Segundo Parágrafo</p>
+    <h2>Titulo 2</h2>
+    <p>Terceiro Parágrafo</p>
+    <h2>Fechando a página</h2>
+
+    <script>
+        let paragrafo1 = document.getElementsByTagName('p')[0];
+        let paragrafo2 = document.getElementsByTagName('p')[1];
+        paragrafo2.innerText = 'Modificado via JS com meu código.';
+
+        let paragrafo3 = document.getElementsByTagName('p')[2];
+        paragrafo3.innerText = 'Modifiquei de Terceiro parágrafo para X.';
+
+        let titulo2 = document.getElementsByTagName('h2')[0];
+        titulo2.innerText = paragrafo1.innerText;
+
+        alert('Aprendendo JS e enviando mensagem para o usuário do browser.');
+    </script>
+</body>
+</html>

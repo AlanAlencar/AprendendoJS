@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ptBr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprendendo JS</title>
+</head>
+<body>
+    <h1>Saudações:</h1>
+    <p></p>
+
+    <script>
+        console.info('Comecei a executar o código JS agora.');
+        let nome = prompt('Qual é o seu nome?','digita aqui');
+        console.warn('Agora vou perguntar se veio conteúdo do prompt');
+        
+        if (nome != null) {
+            console.log('Ele digitou o nome');
+            let paragrafo = document.getElementsByTagName('p')[0];
+            paragrafo.innerText = 'Olá, ' + nome + ' seja bem-vindo.';
+        } else {
+            console.log('Ele foi mau educado.');
+            let paragrafo = document.getElementsByTagName('p')[0];
+            paragrafo.innerText = 'Olá seu mau educado, sem nome.';
+        }
+
+        console.table(['Alan', 'Fujie', 'Marcelo', 'Ícaro']);
+        
+    </script>
+</body>
+</html>
