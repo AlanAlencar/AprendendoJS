@@ -38,4 +38,16 @@ Aprendemos que este método retorna sempre um `HTMLCollection` e portanto precis
 
 Aprendemos ainda as funções `alert`, `confirm` e `prompt`. Adicionamente usamos a instrução condicional `if` para testar retornos.
 
+## Terceira Aula
+
+#### Conteúdo
+
+Estudamos os tipos primitivos do JavaScript, suas nuances e principalmente suas caracteristicas.Aprendemos sobre `string`, `number`, `boolean`, `null`, `undefined` e como declarar estes tipos em variáveis.
+
+Aprendemos as regras básicas de nomes para as variáveis e como o JavaScript usa da _inferência_ para detrminar qual é o tipo que uma variável terá no momento da sua inicialização ou posteriormente quando obtem o dado.
+
+Também apresentamos o comando `typeof` que permite saber qual é o tipo de uma variável dentro do nosso algoritmo no JavaScript.
+
+Por último aprendemos o conceiro de coerção e de como o JavaScript trata coerção em operações matemáticas com +, -, * e /.
+
 // Alan Alencar, 2023
