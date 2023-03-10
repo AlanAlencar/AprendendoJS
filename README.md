@@ -50,4 +50,16 @@ Também apresentamos o comando `typeof` que permite saber qual é o tipo de uma 
 
 Por último aprendemos o conceiro de coerção e de como o JavaScript trata coerção em operações matemáticas com +, -, * e /.
 
+## Quarta Aula
+
+#### Conteúdo
+
+Aprendemos como declarar uma variável com `var`, `let` e como é o comportamento com cada um deles. Também vimos que o escopo de _var_ é global, enquanto que as variáveis declaradas com _let_ possuem escopo de bloco.
+
+Aprendemos a declarar constantes com `const` e porque não é possível modificá-las ao longo do nosso programa.
+
+Aprendemos também o conceito de _hoisting_ e porque devemos tomar cuidado com ele.
+
+Por último, agora sabemos como dar saída formatada com `console.log`, `console.warn` e `console.error` com o uso de _Template Strings_.
+
 // Alan Alencar, 2023
