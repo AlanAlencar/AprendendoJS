@@ -62,4 +62,16 @@ Aprendemos também o conceito de _hoisting_ e porque devemos tomar cuidado com e
 
 Por último, agora sabemos como dar saída formatada com `console.log`, `console.warn` e `console.error` com o uso de _Template Strings_.
 
+## Quinta Aula
+
+#### Conteúdo
+
+Aprendemos como usar o comando de condicional `if`_` para testar uma ou mais condições com operadores de comparação para decidir qual será o rumo do nosso algoritmo.
+
+Aprendemos como criar condições compostas com os operadores __||__ (ou) e o __&&__ (e) para criar condições mais complexas e também como usar a negativa da condição com a instrução `else`_`. 
+
+Vimos ainda que não é uma boa prática criar _ifs_ aninhados e como contornar com `else if`_`.
+
+Para fechar, vimos como é fácil cair nas armadilhas dos algoritmos de cálculos matemáticos caso não seja bem escrito nosso código.
+
 // Alan Alencar, 2023
