@@ -74,4 +74,16 @@ Vimos ainda que não é uma boa prática criar _ifs_ aninhados e como contornar 
 
 Para fechar, vimos como é fácil cair nas armadilhas dos algoritmos de cálculos matemáticos caso não seja bem escrito nosso código.
 
+## Sexta Aula
+
+#### Conteúdo
+
+Conhecemos a estrutura `switch` do Javascript e como podemos usá-la como alternativa a `if` aninhados ou `else if` com várias opções. Ela pode deixar seu código mais limpo e fácil de manutenção.
+
+Em contrapartida vimos também suas limitações, especialmente quando a comparações complexas com __&&__ (e) e desta forma como ele não é nada eficiente.
+
+Vimos ainda que há uma forma curta chamada __ternário__ de construir uma sentença que teste uma condição e se _verdadeiro_ faça isto ou se _falso_ faça aquilo. Bem útil e limpa, mas requer um pouco mais de experiência e olhar apurado.
+
+Para fechar, vimos como é importante sempre revisitar os códigos em busca de refatorar melhor o que escrevemos, mas devemos tomar cuidado para não deixar nossa proficiência tornar a manutenção ineficiente para outros desenvolvedores.
+
 // Alan Alencar, 2023
