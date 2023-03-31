@@ -86,4 +86,14 @@ Vimos ainda que há uma forma curta chamada __ternário__ de construir uma sente
 
 Para fechar, vimos como é importante sempre revisitar os códigos em busca de refatorar melhor o que escrevemos, mas devemos tomar cuidado para não deixar nossa proficiência tornar a manutenção ineficiente para outros desenvolvedores.
 
+## Sétima Aula
+
+#### Conteúdo
+
+O foco desta aula foi a criação de estruturas de repetições muito comuns nos programas para computadores. Conhecemos a estrutura `for` do Javascript e como podemos usá-la para criar um código consistente, coeso e seguro.
+
+Vimos as mais variadas opções desta estrutura, trabalhando detalhadamente nas questões de _inicialização_, _condição_ e _incremento / decremento_ e como variar para termos estruturas com quaisquer contagem.
+
+Vimos como criar situações dentro do _loop_ de _for_ para encerrar seu ciclo antecipadamente com a instrução `break` e como usar a instrução `continue` para deixar mais otimizado nosso código.
+
 // Alan Alencar, 2023
