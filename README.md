@@ -96,4 +96,12 @@ Vimos as mais variadas opções desta estrutura, trabalhando detalhadamente nas 
 
 Vimos como criar situações dentro do _loop_ de _for_ para encerrar seu ciclo antecipadamente com a instrução `break` e como usar a instrução `continue` para deixar mais otimizado nosso código.
 
+## Oitava Aula
+
+#### Conteúdo
+
+O foco desta aula foi a criação de estruturas de repetições nos programas com estrutura `while { ... }` no Javascript.
+
+Também foi apresentado a estrutura `do { ... } while (condição)` que é semelhante a `while` porém com a particularidade de sempre executar uma iteração ao iniciar o bloco.
+
 // Alan Alencar, 2023
