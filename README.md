@@ -104,4 +104,12 @@ O foco desta aula foi a criação de estruturas de repetições nos programas co
 
 Também foi apresentado a estrutura `do { ... } while (condição)` que é semelhante a `while` porém com a particularidade de sempre executar uma iteração ao iniciar o bloco.
 
+## Nona Aula
+
+#### Conteúdo
+
+A primeira aula com introdução do uso de `function`_` com Javascript. Agora nós podemos criar nossas próprias funções, blocos de código com repetições ou que precisam de uma proteção maior e reaproveitamento por parte dos algoritmos.
+
+Vimos como é importante tratar os tipos dos argumentos (_parametros_) das nossas funções e como retornar um valor para o código que invocou a chamada.
+
 // Alan Alencar, 2023
