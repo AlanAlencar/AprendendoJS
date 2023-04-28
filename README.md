@@ -112,4 +112,12 @@ A primeira aula com introdução do uso de `function` com Javascript. Agora nós
 
 Vimos como é importante tratar os tipos dos argumentos (_parametros_) das nossas funções e como retornar um valor para o código que invocou a chamada.
 
+## Décima Aula
+
+#### Conteúdo
+
+Vimos na prática o conceito de _inside functions_ onde o escopo da função só pode ser acessado de dentro da funcão a qual ela foi definida. Aprendemos também a criar funções com a notação de _function expression_ que é uma notação que associa a função e uma variável do seu programa.
+
+Por fim, as _arrow functions_ e como é determinante optar por uma sintaxe ou outra no momento d criar suas próprias funções.
+
 // Alan Alencar, 2023
