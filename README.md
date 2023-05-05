@@ -120,4 +120,12 @@ Vimos na prática o conceito de _inside functions_ onde o escopo da função só
 
 Por fim, as _arrow functions_ e como é determinante optar por uma sintaxe ou outra no momento d criar suas próprias funções.
 
+## Primeira Revisão
+
+#### Conteúdo
+
+Primeira revisão de todos os conhecimentos que aprendemos até a décima aula. Instrução `if`, `switch` e `for`. 
+
+Todos os exercícios da revisão estão na pasta `revisao_1`. 
+
 // Alan Alencar, 2023
