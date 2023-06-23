@@ -120,6 +120,16 @@ Vimos na prática o conceito de _inside functions_ onde o escopo da função só
 
 Por fim, as _arrow functions_ e como é determinante optar por uma sintaxe ou outra no momento d criar suas próprias funções.
 
+## Décima Primeira Aula
+
+#### Conteúdo
+
+Revivemos o conceito de _Arrow Function_, suas potencialidades e porque também são conhecidas como _lambda functions_ no Javascript. Vimos como é possível encurtar o código de uma arrow function de _block body_ para _concise block_ e como isto também torma mais complexo visualizar o processamento da função.
+
+Aprendemos um pouco sobre o paradigma da __Programação Funcional__ e como é possível passar uma função lambda para uma outra função o tanto que isto torna a linguagem e as possibilidades gigantescas.
+
+Por último falamos sobre os _rest parameters_ também conhecidos pela sua forma de escrita ___...parametro__ e como podem ser úteis para determinadas funções as quais não sabemos quantos parâmetros ela vai receber. Um exemplo bem comum disto é a função `console.log()` que pode receber uma quantidade enorme e não limitada de parâmetros para exibir na console do terminal ou do navegador.
+
 ## Primeira Revisão
 
 #### Conteúdo
