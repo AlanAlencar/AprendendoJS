@@ -142,7 +142,7 @@ Os arrays são poderosos. Podem armazenar multiplas dimensões, tipos diferentes
 
 Aprendemos que um array tem uma propriedade importante chamada `length` que nos diz quantos elementos tem no array e que seu primeiro elemento é sempre índice 0 (zero). Vimos como criar novos elementos no final, no início e como excluir o primeiro e último elemento de uma array.
 
-Por último vimos como sortear os elementos de um array e a pegadinha que é sortear strings com letras maiúsculas e minúsculas além de tipos diferentes de _string_. Veja os dois códigos desta unidade chamados `cerevaDoBolo.js` e `cerejaDoBolo_02.js`.
+Por último vimos como sortear os elementos de um array e a pegadinha que é sortear strings com letras maiúsculas e minúsculas além de tipos diferentes de _string_. Veja os dois códigos desta unidade chamados `cerejaDoBolo.js` e `cerejaDoBolo_02.js`.
 
 ## Primeira Revisão
 
