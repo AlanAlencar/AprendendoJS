@@ -130,6 +130,20 @@ Aprendemos um pouco sobre o paradigma da __Programação Funcional__ e como é p
 
 Por último falamos sobre os _rest parameters_ também conhecidos pela sua forma de escrita ___...parametro__ e como podem ser úteis para determinadas funções as quais não sabemos quantos parâmetros ela vai receber. Um exemplo bem comum disto é a função `console.log()` que pode receber uma quantidade enorme e não limitada de parâmetros para exibir na console do terminal ou do navegador.
 
+
+## Décima Segunda Aula
+
+#### Conteúdo
+
+Hoje foi dia de aprendermos mais sobre os `arrays` em JavaScript. Elas são estruturas poderosas que vão permitir ao desenvolvedor trabalhar com um conjunto de  dados em uma
+única estrutura, agora conhecida como _object_.
+
+Os arrays são poderosos. Podem armazenar multiplas dimensões, tipos diferentes em um mesmo array e ser acessado pelo seu índice.
+
+Aprendemos que um array tem uma propriedade importante chamada `length` que nos diz quantos elementos tem no array e que seu primeiro elemento é sempre índice 0 (zero). Vimos como criar novos elementos no final, no início e como excluir o primeiro e último elemento de uma array.
+
+Por último vimos como sortear os elementos de um array e a pegadinha que é sortear strings com letras maiúsculas e minúsculas além de tipos diferentes de _string_. Veja os dois códigos desta unidade chamados `cerevaDoBolo.js` e `cerejaDoBolo_02.js`.
+
 ## Primeira Revisão
 
 #### Conteúdo
