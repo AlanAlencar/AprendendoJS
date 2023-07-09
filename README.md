@@ -130,7 +130,6 @@ Aprendemos um pouco sobre o paradigma da __Programação Funcional__ e como é p
 
 Por último falamos sobre os _rest parameters_ também conhecidos pela sua forma de escrita ___...parametro__ e como podem ser úteis para determinadas funções as quais não sabemos quantos parâmetros ela vai receber. Um exemplo bem comum disto é a função `console.log()` que pode receber uma quantidade enorme e não limitada de parâmetros para exibir na console do terminal ou do navegador.
 
-
 ## Décima Segunda Aula
 
 #### Conteúdo
@@ -143,6 +142,18 @@ Os arrays são poderosos. Podem armazenar multiplas dimensões, tipos diferentes
 Aprendemos que um array tem uma propriedade importante chamada `length` que nos diz quantos elementos tem no array e que seu primeiro elemento é sempre índice 0 (zero). Vimos como criar novos elementos no final, no início e como excluir o primeiro e último elemento de uma array.
 
 Por último vimos como sortear os elementos de um array e a pegadinha que é sortear strings com letras maiúsculas e minúsculas além de tipos diferentes de _string_. Veja os dois códigos desta unidade chamados `cerejaDoBolo.js` e `cerejaDoBolo_02.js`.
+
+## Décima Terceira Aula
+
+#### Conteúdo
+
+Seguindo com os estudos sobre `arrays` aprendemos como usar os métodos padrões implementados neste objeto para fazermos iteração e filtro de elementos.
+
+Usamos o método `forEach` para iterar os elementos do array e comparamos com o mesmo uso através do `for`. Vimos que o `forEach` permite usar uma função de `callback` como parâmetro o que nos dá uma flexibilidade maior quando há esta necessidade.
+
+Aprendemos também a usar o método `map` que em primeira instância é muito parecido com o `forEach` porém com a particularidade de retornar um novo array se necessário. Lembrando que sempre será gerado um novo array do mesmo tamanho que o array original.
+
+Por último vimos o método `filter` que também similar aos antecessores, mas com a capacidade de definir quais elementos do arra original vão ser inseridos no novo array. 
 
 ## Primeira Revisão
 
