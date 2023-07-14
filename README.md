@@ -155,6 +155,16 @@ Aprendemos também a usar o método `map` que em primeira instância é muito pa
 
 Por último vimos o método `filter` que também similar aos antecessores, mas com a capacidade de definir quais elementos do arra original vão ser inseridos no novo array. 
 
+## Décima Quarta Aula
+
+#### Conteúdo
+
+Seguindo com os estudos sobre `arrays` agora com os métodos `find`, `findIndex` e `reduce`.
+
+Fizemos exercícios com todos os três novos métodos, e vimos como particularidade que o `find` encerra a execução sempre quando encontra a primeira ocorrencia e retorna `undefined` quando não acha nenhum match. 
+
+Fizemos um exercício usando `reduce` com objetos para mostrar o poder deste método e a importância de iniciar o acumulador.
+
 ## Primeira Revisão
 
 #### Conteúdo
