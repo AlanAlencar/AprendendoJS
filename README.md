@@ -128,7 +128,7 @@ Revivemos o conceito de _Arrow Function_, suas potencialidades e porque também 
 
 Aprendemos um pouco sobre o paradigma da __Programação Funcional__ e como é possível passar uma função lambda para uma outra função o tanto que isto torna a linguagem e as possibilidades gigantescas.
 
-Por último falamos sobre os _rest parameters_ também conhecidos pela sua forma de escrita ___...parametro__ e como podem ser úteis para determinadas funções as quais não sabemos quantos parâmetros ela vai receber. Um exemplo bem comum disto é a função `console.log()` que pode receber uma quantidade enorme e não limitada de parâmetros para exibir na console do terminal ou do navegador.
+Por último falamos sobre os _rest parameters_ também conhecidos pela sua forma de escrita `...parametro` e como podem ser úteis para determinadas funções as quais não sabemos quantos parâmetros ela vai receber. Um exemplo bem comum disto é a função `console.log()` que pode receber uma quantidade enorme e não limitada de parâmetros para exibir na console do terminal ou do navegador.
 
 ## Décima Segunda Aula
 
@@ -172,5 +172,13 @@ Fizemos um exercício usando `reduce` com objetos para mostrar o poder deste mé
 Primeira revisão de todos os conhecimentos que aprendemos até a décima aula. Instrução `if`, `switch` e `for`. 
 
 Todos os exercícios da revisão estão na pasta `revisao_1`. 
+
+## Segunda Revisão
+
+#### Conteúdo
+
+Fizemos uma bateria de exercícios de aprimoramento dos conhecimentos sobre `arrays` e como resolver prolemas do cotidiano. O enunciado dos exercícios está na pasta `aula_15` no documento do slide em __PDF__ e todos eles resolvidos em mais de uma versão.
+
+Todos os exercícios da revisão estão na pasta `aula_15`. 
 
 // Alan Alencar, 2023
