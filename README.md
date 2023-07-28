@@ -165,6 +165,16 @@ Fizemos exercícios com todos os três novos métodos, e vimos como particularid
 
 Fizemos um exercício usando `reduce` com objetos para mostrar o poder deste método e a importância de iniciar o acumulador.
 
+## Décima Quinta Aula
+
+#### Conteúdo
+
+Voltamos a estudar sobre `callback functions`, mais precisamente sobre o __Paradigma Assíncrono__ e como podemos usar todo este poder do _JavaScript_ para escrever códigos com melhor desempenho.
+
+Vimos como é o comportamento das funções que nativamente já são assíncronas como `setTimeout` e como este comportamento afeta diretamente na execução do nossó código. Vimos também como a simples adição da palavra reservada `async` antes das nossas funções a torna uma `Promise` e por fom como é o comportamento das _Promises_ e como tratá-las corretamente. 
+
+Fizemos um exemplo consumindo uma api da https://dog.ceo/dog-api/ e exibindo a imagens randômica dos cães.
+
 ## Primeira Revisão
 
 #### Conteúdo
