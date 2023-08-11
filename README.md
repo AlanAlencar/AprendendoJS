@@ -175,6 +175,30 @@ Vimos como é o comportamento das funções que nativamente já são assíncrona
 
 Fizemos um exemplo consumindo uma api da https://dog.ceo/dog-api/ e exibindo a imagens randômica dos cães.
 
+## Construindo APP IPVA em MG
+
+#### Conteúdo
+
+Nossa primeira aula prática desenvolvendo uma aplicação do mundo real. Construímos um app baseado em _html5_, _css_, _js_ e _API Rest_ para aplicar os conhecimentos das aulas anteriores.
+
+##### Objetivo
+
+Acessar uma _api_ pública com os dados da tabela FIPE e calcular o IPVA dos carros para o estado de Minas Gerais apenas.
+
+Usamos uma API pública documentada no link http://deividfortuna.github.io/fipe/ e disponibilizada pelo desenvolvedor _Deivid Fortuna_.
+
+##### Mockup
+
+O desenho da solução deve ter uma aparência semelhante ao mockup a seguir. Ela mostra como deverá ser a funcionalidade do _app_ e dar o caminho para o desenvolvimento da interface do _front-end_.
+
+![Mockup](./App%20IPVA/assets/mockup.jpeg)
+
+No final a interface já desenvolvida em _html5_ com _css_ básico vai ter a aparência como mostrada na imagem abaixo.
+
+![App](./App%20IPVA/assets/screenshot.png)
+
+💡 Em breve nós iremos melhorar o aplicativo para que seja possível calcular o valor do IPVA em todos os estados brasileiros e também para motocicletas e caminhões.
+
 ## Primeira Revisão
 
 #### Conteúdo

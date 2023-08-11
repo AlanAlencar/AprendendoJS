@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tabela FIPE 2023</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>🚙 IPVA em MG no ano de 2023</h2>
+
+        <label class="select-label">Marca</label>
+        <select id="selMarcas">
+            <option value="-1">Escolha uma marca</option>
+        </select>
+
+        <label class="select-label">Modelo</label>
+        <select id="selModelos">
+            <option value="-1">Qual modelo?</option>
+        </select>
+
+        <label class="select-label">Ano</label>
+        <select id="selModelosAno">
+            <option value="-1">Qual ano?</option>
+        </select>
+
+        <div class="quadro">
+            <h3>💸 Resultado com alíguota de 4%</h3>
+            <label class="campo">Marca</label>
+            <input type="text" id="fldMarca" readonly>
+
+            <label class="campo">Modelo</label>
+            <input type="text" id="fldModelo" readonly>
+
+            <label class="campo">Ano/Modelo</label>
+            <input type="text" id="fldAnoModelo" readonly>
+
+            <label class="campo">Combustível</label>
+            <input type="text" id="fldCombustivel" readonly>
+
+            <label class="campo">Valor veículo</label>
+            <input type="text" id="fldValor" readonly>
+
+            <label class="campo">IPVA aproximado</label>
+            <input type="text" id="fldIPVA" readonly>
+        </div>
+    </div>
+    <!-- Chamada para o código JS -->
+    <script src="./script.js"></script>
+</body>
+</html>
