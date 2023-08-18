@@ -199,6 +199,34 @@ No final a interface já desenvolvida em _html5_ com _css_ básico vai ter a apa
 
 💡 Em breve nós iremos melhorar o aplicativo para que seja possível calcular o valor do IPVA em todos os estados brasileiros e também para motocicletas e caminhões.
 
+## Construindo APP IPVA para todos os estados brasileiros e para motocicletas, carros e caminhões
+
+#### Conteúdo
+
+Realizamos uma série de melhorias na primeira versão da aplicação d cálculo do valor do IPVA. Antes limitado a calcular apenas para _carros_ e para uma alíquota de _4%_ que é praticada nos estados de _SP_, _RJ_ e _MG_ agora permite efetuar cálculos para caminhões e motocicletas além dos carroe e para _todos_ os estados brasileiros e o distrito federal. 
+
+##### Recursos
+
+Seguimos acessando a _api_ pública com os dados da tabela FIPE documentada no link http://deividfortuna.github.io/fipe/ e disponibilizada pelo desenvolvedor _Deivid Fortuna_.
+
+Criamos os botões estilizados com _css_ usando emojis e evitando assim a necessidade de baixar imagens.
+
+Refatoramos o código anterior, criamos funções mais otimizadas e transportamos a tabela de valores de alíquotas para um array de objetos.
+
+##### Screenshots
+
+Tabela de aliquotas base para cálculo das modalidades nos estados brasileiros e distrito federal.
+
+![Aliquotas](./App%20IPVA%20V2/assets/Screenshot%202023-08-17%20at%2023.09.38.png)
+
+No final a interface da versão V2 desenvolvida em _html5_ com _css_ básico vai ter a aparência como mostrada na imagem abaixo.
+
+![App](./App%20IPVA%20V2/assets/Screenshot%202023-08-17%20at%2023.16.30.png)
+
+💡 Pensou que acabou? Não mesmo. Haverá ainda um desafio de retirar a observação dos estados brasileiros que isentam de IPVA veículos fabricados a 10 ou mais anos, inclusive com aqueles que não praticam a isenção. Nestes casos haverá uma informação de __ISENTO__ no local do valor que deveria ser pago. Em Breve.
+
+🎁 _Foi incluído uma pasta chamada `Prototipo App IPVA V2` contendo apenas o arquico _html_ e _css_ para que você possa estudar os elementos destes arquivos e aprender um pouco mais sobre eles.
+
 ## Primeira Revisão
 
 #### Conteúdo

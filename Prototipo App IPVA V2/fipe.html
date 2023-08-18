@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPVA 2023</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Quanto vai pagar de IPVA em 2023?</h2>
+        <div>
+            <div class="emoji-button" id="carros" onclick="selectEmoji('carros')">🚙</div>
+            <div class="emoji-button" id="caminhoes" onclick="selectEmoji('caminhoes')">🚚</div>
+            <div class="emoji-button" id="motos" onclick="selectEmoji('motos')">🛵</div>          
+        </div>
+
+        <label class="select-label">UF de pagamento</label>
+        <select id="uf">
+            <option value="-1">Qual estado?</option>
+        </select>
+
+        <label class="select-label">Marca</label>
+        <select id="selMarcas">
+            <option value="-1">Escolha uma marca</option>
+        </select>
+
+        <label class="select-label">Modelo</label>
+        <select id="selModelos">
+            <option value="-1">Qual modelo?</option>
+        </select>
+
+        <label class="select-label">Ano</label>
+        <select id="selModelosAno">
+            <option value="-1">Qual ano?</option>
+        </select>
+
+        <div class="quadro">
+            <h3>💸 Resultado</h3>
+            
+            <label class="campo">Valor do bem</label>
+            <input type="text" id="fldValor" readonly>
+
+            <label class="campo">Alíquota</label>
+            <input type="text" id="fldAliquota" readonly>
+
+            <label class="campo">IPVA aproximado</label>
+            <spam id="valor" class="valor">R$ 0.00</spam>
+        </div>
+
+    </div>
+
+    <script src="./api.js"></script>
+    <script src="./script.js"></script>
+</body>
+</html>
